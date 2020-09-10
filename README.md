@@ -1,6 +1,6 @@
 # Healty Run Game
 
-About this game
+About this game.
 
 This game is my bachelor final project, it's a simple game, hope you like it, thank you.
 
