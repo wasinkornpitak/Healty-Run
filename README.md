@@ -1,1 +1,1 @@
-# Healty-Run
+# Healty Run Game
